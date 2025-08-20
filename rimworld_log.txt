@@ -1,0 +1,51 @@
+2025-08-20 00:11:14 Config loaded
+2025-08-20 00:22:37 Set button first (F7)
+2025-08-20 00:22:42 Button set: Point(x=2167, y=372)
+2025-08-20 00:22:43 Button set: Point(x=2068, y=378)
+2025-08-20 00:22:45 Started
+2025-08-20 00:22:57 Found MUST HAVE: tough (no second trait)
+2025-08-20 00:22:57 Found MUST HAVE trait but no second trait - pausing 5s
+2025-08-20 00:22:57 Waiting for user to decide...
+2025-08-20 00:23:04 Found MUST HAVE: tough (no second trait)
+2025-08-20 00:23:04 Found MUST HAVE trait but no second trait - pausing 5s
+2025-08-20 00:23:04 Waiting for user to decide...
+2025-08-20 00:23:12 Found MUST HAVE: tough (no second trait)
+2025-08-20 00:23:12 Found MUST HAVE trait but no second trait - pausing 5s
+2025-08-20 00:23:12 Waiting for user to decide...
+2025-08-20 00:23:18 Found MUST HAVE: tough (no second trait)
+2025-08-20 00:23:18 Found MUST HAVE trait but no second trait - pausing 5s
+2025-08-20 00:23:18 Waiting for user to decide...
+2025-08-20 00:23:24 Found MUST HAVE: tough (no second trait)
+2025-08-20 00:23:24 Found MUST HAVE trait but no second trait - pausing 5s
+2025-08-20 00:23:24 Waiting for user to decide...
+2025-08-20 00:23:37 Found MUST HAVE: tough (no second trait)
+2025-08-20 00:23:37 Found MUST HAVE trait but no second trait - pausing 5s
+2025-08-20 00:23:37 Waiting for user to decide...
+2025-08-20 00:23:45 COMBO: tough + fast walker
+2025-08-20 00:23:47 Stopped
+2025-08-20 00:24:01 Started
+2025-08-20 00:24:10 Found MUST HAVE: tough (no second trait)
+2025-08-20 00:24:10 Found MUST HAVE trait but no second trait - pausing 5s
+2025-08-20 00:24:10 Waiting for user to decide...
+2025-08-20 00:24:30 Found MUST HAVE: tough (no second trait)
+2025-08-20 00:24:30 Found MUST HAVE trait but no second trait - pausing 5s
+2025-08-20 00:24:30 Waiting for user to decide...
+2025-08-20 00:24:38 Found MUST HAVE: tough (no second trait)
+2025-08-20 00:24:38 Found MUST HAVE trait but no second trait - pausing 5s
+2025-08-20 00:24:38 Waiting for user to decide...
+2025-08-20 00:24:58 Found MUST HAVE: tough (no second trait)
+2025-08-20 00:24:58 Found MUST HAVE trait but no second trait - pausing 5s
+2025-08-20 00:24:58 Waiting for user to decide...
+2025-08-20 00:25:09 Found MUST HAVE: tough (no second trait)
+2025-08-20 00:25:09 Found MUST HAVE trait but no second trait - pausing 5s
+2025-08-20 00:25:09 Waiting for user to decide...
+2025-08-20 00:25:12 Stopped
+2025-08-20 00:25:19 Started
+2025-08-20 00:25:26 COMBO: tough + super immune
+2025-08-20 00:25:27 Stopped
+2025-08-20 00:35:58 Config loaded
+2025-08-20 00:39:35 Config loaded
+2025-08-20 01:02:06 Config loaded
+2025-08-20 01:04:22 Config loaded
+2025-08-20 01:23:43 Config loaded
+2025-08-20 01:29:40 Config loaded
